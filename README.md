@@ -124,6 +124,7 @@ I also learned how to:
 - Write SQL queries based on business questions
 - Connect MySQL with Power BI
 - Create DAX measures
+  
 - Design a dashboard around business problems
 - Present data in a way that can be useful for HR decision-making
 
